@@ -157,3 +157,6 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+// GA4 Tracking Code
+
